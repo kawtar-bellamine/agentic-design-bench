@@ -1,0 +1,1048 @@
+{
+ "dev": [
+  {
+   "spec": {
+    "task_id": "T7-003",
+    "length": 150,
+    "load": 150,
+    "max_deflection": 0.6,
+    "safety_factor": 1.5,
+    "bolt": "M8",
+    "max_height": 25,
+    "max_width": 30,
+    "materials": [
+     "aluminium_6061"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 40.42,
+    "stress_mpa": 97.7,
+    "allowed_stress_mpa": 184.0,
+    "deflection_mm": 0.578,
+    "deflection_limit_mm": 0.6,
+    "stress_ratio": 0.531,
+    "deflection_ratio": 0.963,
+    "cost_eur": 0.18,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 27.0,
+     "t": 2.0,
+     "h": 19.0,
+     "tr": 2.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-008",
+    "length": 220,
+    "load": 900,
+    "max_deflection": 0.37,
+    "safety_factor": 2.0,
+    "bolt": "M6",
+    "max_height": 32,
+    "max_width": 60,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 672.46,
+    "stress_mpa": 166.9,
+    "allowed_stress_mpa": 177.5,
+    "deflection_mm": 0.366,
+    "deflection_limit_mm": 0.37,
+    "stress_ratio": 0.94,
+    "deflection_ratio": 0.989,
+    "cost_eur": 0.81,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 60.0,
+     "t": 2.0,
+     "h": 30.0,
+     "tr": 9.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-009",
+    "length": 120,
+    "load": 250,
+    "max_deflection": 0.48,
+    "safety_factor": 2.5,
+    "bolt": "M5",
+    "max_height": 12,
+    "max_width": 80,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 160.34,
+    "stress_mpa": 141.0,
+    "allowed_stress_mpa": 142.0,
+    "deflection_mm": 0.354,
+    "deflection_limit_mm": 0.48,
+    "stress_ratio": 0.993,
+    "deflection_ratio": 0.737,
+    "cost_eur": 0.19,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 55.5,
+     "t": 2.0,
+     "h": 10.0,
+     "tr": 6.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-011",
+    "length": 80,
+    "load": 900,
+    "max_deflection": 0.13,
+    "safety_factor": 1.5,
+    "bolt": "M6",
+    "max_height": 16,
+    "max_width": 60,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 138.97,
+    "stress_mpa": 223.2,
+    "allowed_stress_mpa": 236.7,
+    "deflection_mm": 0.129,
+    "deflection_limit_mm": 0.13,
+    "stress_ratio": 0.943,
+    "deflection_ratio": 0.996,
+    "cost_eur": 0.17,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 41.5,
+     "t": 2.0,
+     "h": 14.0,
+     "tr": 10.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-012",
+    "length": 80,
+    "load": 1300,
+    "max_deflection": 0.53,
+    "safety_factor": 2.5,
+    "bolt": "M8",
+    "max_height": 20,
+    "max_width": 50,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 44.94,
+    "stress_mpa": 345.9,
+    "allowed_stress_mpa": 352.0,
+    "deflection_mm": 0.419,
+    "deflection_limit_mm": 0.53,
+    "stress_ratio": 0.983,
+    "deflection_ratio": 0.791,
+    "cost_eur": 1.35,
+    "issues": [],
+    "design": {
+     "material": "titanium_ti6al4v",
+     "b": 38.0,
+     "t": 2.0,
+     "h": 18.0,
+     "tr": 3.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-014",
+    "length": 80,
+    "load": 1300,
+    "max_deflection": 0.2,
+    "safety_factor": 2.5,
+    "bolt": "M8",
+    "max_height": 40,
+    "max_width": 60,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 51.37,
+    "stress_mpa": 109.2,
+    "allowed_stress_mpa": 110.4,
+    "deflection_mm": 0.118,
+    "deflection_limit_mm": 0.2,
+    "stress_ratio": 0.989,
+    "deflection_ratio": 0.588,
+    "cost_eur": 0.23,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 57.5,
+     "t": 2.0,
+     "h": 31.5,
+     "tr": 4.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-020",
+    "length": 220,
+    "load": 250,
+    "max_deflection": 1.47,
+    "safety_factor": 2.0,
+    "bolt": "M8",
+    "max_height": 16,
+    "max_width": 50,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 204.51,
+    "stress_mpa": 181.5,
+    "allowed_stress_mpa": 440.0,
+    "deflection_mm": 1.456,
+    "deflection_limit_mm": 1.47,
+    "stress_ratio": 0.413,
+    "deflection_ratio": 0.991,
+    "cost_eur": 6.14,
+    "issues": [],
+    "design": {
+     "material": "titanium_ti6al4v",
+     "b": 39.0,
+     "t": 2.0,
+     "h": 14.0,
+     "tr": 9.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-025",
+    "length": 80,
+    "load": 150,
+    "max_deflection": 0.32,
+    "safety_factor": 2.5,
+    "bolt": "M5",
+    "max_height": 20,
+    "max_width": 80,
+    "materials": [
+     "aluminium_6061"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 13.35,
+    "stress_mpa": 109.8,
+    "allowed_stress_mpa": 110.4,
+    "deflection_mm": 0.217,
+    "deflection_limit_mm": 0.32,
+    "stress_ratio": 0.994,
+    "deflection_ratio": 0.678,
+    "cost_eur": 0.06,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 16.5,
+     "t": 2.0,
+     "h": 15.0,
+     "tr": 2.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-027",
+    "length": 180,
+    "load": 400,
+    "max_deflection": 0.3,
+    "safety_factor": 1.5,
+    "bolt": "M5",
+    "max_height": 25,
+    "max_width": 60,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 275.5,
+    "stress_mpa": 150.9,
+    "allowed_stress_mpa": 236.7,
+    "deflection_mm": 0.294,
+    "deflection_limit_mm": 0.3,
+    "stress_ratio": 0.638,
+    "deflection_ratio": 0.981,
+    "cost_eur": 0.33,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 34.5,
+     "t": 2.0,
+     "h": 23.0,
+     "tr": 5.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-028",
+    "length": 150,
+    "load": 400,
+    "max_deflection": 1.0,
+    "safety_factor": 1.5,
+    "bolt": "M5",
+    "max_height": 40,
+    "max_width": 50,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 50.17,
+    "stress_mpa": 179.8,
+    "allowed_stress_mpa": 184.0,
+    "deflection_mm": 0.869,
+    "deflection_limit_mm": 1.0,
+    "stress_ratio": 0.977,
+    "deflection_ratio": 0.869,
+    "cost_eur": 0.23,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 28.5,
+     "t": 2.0,
+     "h": 22.5,
+     "tr": 3.0
+    }
+   }
+  }
+ ],
+ "test": [
+  {
+   "spec": {
+    "task_id": "T7-030",
+    "length": 100,
+    "load": 1300,
+    "max_deflection": 0.67,
+    "safety_factor": 2.5,
+    "bolt": "M6",
+    "max_height": 40,
+    "max_width": 30,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 57.87,
+    "stress_mpa": 345.0,
+    "allowed_stress_mpa": 352.0,
+    "deflection_mm": 0.422,
+    "deflection_limit_mm": 0.67,
+    "stress_ratio": 0.98,
+    "deflection_ratio": 0.63,
+    "cost_eur": 1.74,
+    "issues": [],
+    "design": {
+     "material": "titanium_ti6al4v",
+     "b": 30.0,
+     "t": 2.0,
+     "h": 24.0,
+     "tr": 3.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-031",
+    "length": 180,
+    "load": 400,
+    "max_deflection": 0.72,
+    "safety_factor": 2.0,
+    "bolt": "M5",
+    "max_height": 32,
+    "max_width": 80,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355",
+     "titanium_ti6al4v"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 98.46,
+    "stress_mpa": 236.6,
+    "allowed_stress_mpa": 440.0,
+    "deflection_mm": 0.69,
+    "deflection_limit_mm": 0.72,
+    "stress_ratio": 0.538,
+    "deflection_ratio": 0.958,
+    "cost_eur": 2.95,
+    "issues": [],
+    "design": {
+     "material": "titanium_ti6al4v",
+     "b": 16.5,
+     "t": 2.0,
+     "h": 26.0,
+     "tr": 3.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-035",
+    "length": 100,
+    "load": 150,
+    "max_deflection": 0.4,
+    "safety_factor": 2.0,
+    "bolt": "M5",
+    "max_height": 20,
+    "max_width": 40,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 44.78,
+    "stress_mpa": 177.1,
+    "allowed_stress_mpa": 177.5,
+    "deflection_mm": 0.22,
+    "deflection_limit_mm": 0.4,
+    "stress_ratio": 0.998,
+    "deflection_ratio": 0.549,
+    "cost_eur": 0.05,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 16.5,
+     "t": 2.0,
+     "h": 12.5,
+     "tr": 2.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-039",
+    "length": 100,
+    "load": 250,
+    "max_deflection": 0.67,
+    "safety_factor": 1.5,
+    "bolt": "M8",
+    "max_height": 25,
+    "max_width": 40,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 60.02,
+    "stress_mpa": 225.6,
+    "allowed_stress_mpa": 236.7,
+    "deflection_mm": 0.32,
+    "deflection_limit_mm": 0.67,
+    "stress_ratio": 0.953,
+    "deflection_ratio": 0.477,
+    "cost_eur": 0.07,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 27.0,
+     "t": 2.0,
+     "h": 12.5,
+     "tr": 2.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-045",
+    "length": 180,
+    "load": 250,
+    "max_deflection": 1.2,
+    "safety_factor": 2.0,
+    "bolt": "M5",
+    "max_height": 32,
+    "max_width": 30,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 59.76,
+    "stress_mpa": 136.6,
+    "allowed_stress_mpa": 138.0,
+    "deflection_mm": 0.944,
+    "deflection_limit_mm": 1.2,
+    "stress_ratio": 0.99,
+    "deflection_ratio": 0.787,
+    "cost_eur": 0.27,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 28.0,
+     "t": 2.0,
+     "h": 22.5,
+     "tr": 3.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-049",
+    "length": 150,
+    "load": 400,
+    "max_deflection": 0.6,
+    "safety_factor": 2.5,
+    "bolt": "M6",
+    "max_height": 25,
+    "max_width": 80,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 169.66,
+    "stress_mpa": 141.2,
+    "allowed_stress_mpa": 142.0,
+    "deflection_mm": 0.246,
+    "deflection_limit_mm": 0.6,
+    "stress_ratio": 0.994,
+    "deflection_ratio": 0.41,
+    "cost_eur": 0.2,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 38.0,
+     "t": 2.0,
+     "h": 23.0,
+     "tr": 3.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-050",
+    "length": 180,
+    "load": 250,
+    "max_deflection": 0.45,
+    "safety_factor": 2.5,
+    "bolt": "M5",
+    "max_height": 25,
+    "max_width": 40,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 172.35,
+    "stress_mpa": 138.4,
+    "allowed_stress_mpa": 142.0,
+    "deflection_mm": 0.312,
+    "deflection_limit_mm": 0.45,
+    "stress_ratio": 0.975,
+    "deflection_ratio": 0.694,
+    "cost_eur": 0.21,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 27.5,
+     "t": 2.0,
+     "h": 22.5,
+     "tr": 3.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-052",
+    "length": 80,
+    "load": 250,
+    "max_deflection": 0.2,
+    "safety_factor": 1.5,
+    "bolt": "M5",
+    "max_height": 40,
+    "max_width": 50,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 16.86,
+    "stress_mpa": 126.6,
+    "allowed_stress_mpa": 184.0,
+    "deflection_mm": 0.184,
+    "deflection_limit_mm": 0.2,
+    "stress_ratio": 0.688,
+    "deflection_ratio": 0.922,
+    "cost_eur": 0.08,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 16.5,
+     "t": 2.0,
+     "h": 18.5,
+     "tr": 2.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-054",
+    "length": 100,
+    "load": 1300,
+    "max_deflection": 0.4,
+    "safety_factor": 1.5,
+    "bolt": "M8",
+    "max_height": 25,
+    "max_width": 80,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 142.05,
+    "stress_mpa": 234.3,
+    "allowed_stress_mpa": 236.7,
+    "deflection_mm": 0.194,
+    "deflection_limit_mm": 0.4,
+    "stress_ratio": 0.99,
+    "deflection_ratio": 0.485,
+    "cost_eur": 0.17,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 51.5,
+     "t": 2.0,
+     "h": 23.0,
+     "tr": 3.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-062",
+    "length": 80,
+    "load": 400,
+    "max_deflection": 0.53,
+    "safety_factor": 2.0,
+    "bolt": "M5",
+    "max_height": 20,
+    "max_width": 80,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 53.89,
+    "stress_mpa": 173.8,
+    "allowed_stress_mpa": 177.5,
+    "deflection_mm": 0.096,
+    "deflection_limit_mm": 0.53,
+    "stress_ratio": 0.979,
+    "deflection_ratio": 0.18,
+    "cost_eur": 0.06,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 21.0,
+     "t": 2.0,
+     "h": 18.0,
+     "tr": 2.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-063",
+    "length": 120,
+    "load": 900,
+    "max_deflection": 0.48,
+    "safety_factor": 1.5,
+    "bolt": "M8",
+    "max_height": 40,
+    "max_width": 40,
+    "materials": [
+     "aluminium_6061"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 56.98,
+    "stress_mpa": 181.0,
+    "allowed_stress_mpa": 184.0,
+    "deflection_mm": 0.46,
+    "deflection_limit_mm": 0.48,
+    "stress_ratio": 0.983,
+    "deflection_ratio": 0.958,
+    "cost_eur": 0.26,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 40.0,
+     "t": 2.0,
+     "h": 28.0,
+     "tr": 3.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-064",
+    "length": 100,
+    "load": 400,
+    "max_deflection": 0.67,
+    "safety_factor": 1.5,
+    "bolt": "M5",
+    "max_height": 20,
+    "max_width": 50,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 26.47,
+    "stress_mpa": 178.3,
+    "allowed_stress_mpa": 184.0,
+    "deflection_mm": 0.524,
+    "deflection_limit_mm": 0.67,
+    "stress_ratio": 0.969,
+    "deflection_ratio": 0.782,
+    "cost_eur": 0.12,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 27.0,
+     "t": 2.0,
+     "h": 18.0,
+     "tr": 2.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-066",
+    "length": 80,
+    "load": 150,
+    "max_deflection": 0.32,
+    "safety_factor": 2.5,
+    "bolt": "M6",
+    "max_height": 16,
+    "max_width": 60,
+    "materials": [
+     "aluminium_6061"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 14.1,
+    "stress_mpa": 110.4,
+    "allowed_stress_mpa": 110.4,
+    "deflection_mm": 0.267,
+    "deflection_limit_mm": 0.32,
+    "stress_ratio": 1.0,
+    "deflection_ratio": 0.833,
+    "cost_eur": 0.06,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 20.0,
+     "t": 2.0,
+     "h": 13.5,
+     "tr": 2.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-068",
+    "length": 220,
+    "load": 250,
+    "max_deflection": 0.88,
+    "safety_factor": 2.0,
+    "bolt": "M5",
+    "max_height": 40,
+    "max_width": 40,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 208.22,
+    "stress_mpa": 174.5,
+    "allowed_stress_mpa": 177.5,
+    "deflection_mm": 0.604,
+    "deflection_limit_mm": 0.88,
+    "stress_ratio": 0.983,
+    "deflection_ratio": 0.686,
+    "cost_eur": 0.25,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 27.5,
+     "t": 2.0,
+     "h": 22.0,
+     "tr": 3.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-069",
+    "length": 120,
+    "load": 150,
+    "max_deflection": 0.48,
+    "safety_factor": 1.5,
+    "bolt": "M5",
+    "max_height": 40,
+    "max_width": 50,
+    "materials": [
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 52.95,
+    "stress_mpa": 224.9,
+    "allowed_stress_mpa": 236.7,
+    "deflection_mm": 0.42,
+    "deflection_limit_mm": 0.48,
+    "stress_ratio": 0.95,
+    "deflection_ratio": 0.875,
+    "cost_eur": 0.06,
+    "issues": [],
+    "design": {
+     "material": "steel_s355",
+     "b": 16.5,
+     "t": 2.0,
+     "h": 12.0,
+     "tr": 2.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-070",
+    "length": 100,
+    "load": 150,
+    "max_deflection": 0.67,
+    "safety_factor": 2.5,
+    "bolt": "M6",
+    "max_height": 32,
+    "max_width": 50,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 19.07,
+    "stress_mpa": 109.0,
+    "allowed_stress_mpa": 110.4,
+    "deflection_mm": 0.339,
+    "deflection_limit_mm": 0.67,
+    "stress_ratio": 0.988,
+    "deflection_ratio": 0.506,
+    "cost_eur": 0.09,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 20.0,
+     "t": 2.0,
+     "h": 16.0,
+     "tr": 2.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-072",
+    "length": 80,
+    "load": 400,
+    "max_deflection": 0.2,
+    "safety_factor": 2.0,
+    "bolt": "M8",
+    "max_height": 20,
+    "max_width": 40,
+    "materials": [
+     "aluminium_6061"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 26.53,
+    "stress_mpa": 129.8,
+    "allowed_stress_mpa": 138.0,
+    "deflection_mm": 0.196,
+    "deflection_limit_mm": 0.2,
+    "stress_ratio": 0.94,
+    "deflection_ratio": 0.98,
+    "cost_eur": 0.12,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 27.0,
+     "t": 2.0,
+     "h": 18.0,
+     "tr": 4.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-073",
+    "length": 120,
+    "load": 250,
+    "max_deflection": 0.3,
+    "safety_factor": 1.5,
+    "bolt": "M5",
+    "max_height": 20,
+    "max_width": 60,
+    "materials": [
+     "aluminium_6061"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 55.8,
+    "stress_mpa": 90.3,
+    "allowed_stress_mpa": 184.0,
+    "deflection_mm": 0.298,
+    "deflection_limit_mm": 0.3,
+    "stress_ratio": 0.491,
+    "deflection_ratio": 0.994,
+    "cost_eur": 0.25,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 32.5,
+     "t": 2.0,
+     "h": 18.0,
+     "tr": 6.0
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-077",
+    "length": 250,
+    "load": 400,
+    "max_deflection": 0.42,
+    "safety_factor": 1.5,
+    "bolt": "M6",
+    "max_height": 40,
+    "max_width": 80,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 291.91,
+    "stress_mpa": 56.5,
+    "allowed_stress_mpa": 184.0,
+    "deflection_mm": 0.412,
+    "deflection_limit_mm": 0.42,
+    "stress_ratio": 0.307,
+    "deflection_ratio": 0.981,
+    "cost_eur": 1.31,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 74.0,
+     "t": 2.0,
+     "h": 38.0,
+     "tr": 7.5
+    }
+   }
+  },
+  {
+   "spec": {
+    "task_id": "T7-080",
+    "length": 80,
+    "load": 600,
+    "max_deflection": 0.13,
+    "safety_factor": 2.5,
+    "bolt": "M5",
+    "max_height": 40,
+    "max_width": 30,
+    "materials": [
+     "aluminium_6061",
+     "steel_s355"
+    ]
+   },
+   "best_known": {
+    "feasible": true,
+    "mass_g": 32.36,
+    "stress_mpa": 108.1,
+    "allowed_stress_mpa": 110.4,
+    "deflection_mm": 0.121,
+    "deflection_limit_mm": 0.13,
+    "stress_ratio": 0.979,
+    "deflection_ratio": 0.933,
+    "cost_eur": 0.15,
+    "issues": [],
+    "design": {
+     "material": "aluminium_6061",
+     "b": 30.0,
+     "t": 2.0,
+     "h": 26.0,
+     "tr": 3.5
+    }
+   }
+  }
+ ]
+}

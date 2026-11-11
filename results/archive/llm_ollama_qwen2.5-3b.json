@@ -1,0 +1,543 @@
+{
+ "backend": "ollama",
+ "model": "qwen2.5:3b",
+ "rows": [
+  {
+   "task_id": "T7-030",
+   "agent": "single_shot",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 1,
+   "llm_calls": 1,
+   "parse_failures": 0,
+   "by_round": [
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "single_shot",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 1,
+   "llm_calls": 1,
+   "parse_failures": 0,
+   "by_round": [
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "single_shot",
+   "feasible": true,
+   "regret": 5.351049575703439,
+   "success": false,
+   "verifier_calls": 1,
+   "llm_calls": 1,
+   "parse_failures": 0,
+   "by_round": [
+    5.351049575703439
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 30.0,
+    "t": 10.0,
+    "h": 5.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "single_shot",
+   "feasible": true,
+   "regret": 3.218593802065978,
+   "success": false,
+   "verifier_calls": 1,
+   "llm_calls": 1,
+   "parse_failures": 0,
+   "by_round": [
+    3.218593802065978
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 35.0,
+    "t": 7.0,
+    "h": 5.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "single_shot",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 1,
+   "llm_calls": 1,
+   "parse_failures": 0,
+   "by_round": [
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "single_shot",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 1,
+   "llm_calls": 1,
+   "parse_failures": 0,
+   "by_round": [
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-030",
+   "agent": "tool_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "tool_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "tool_loop",
+   "feasible": true,
+   "regret": 3.579723090665476,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    5.438588655649843,
+    3.579723090665476,
+    3.579723090665476,
+    3.579723090665476,
+    3.579723090665476,
+    3.579723090665476
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 25.0,
+    "t": 8.0,
+    "h": 4.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "tool_loop",
+   "feasible": true,
+   "regret": 3.725091636121293,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    3.725091636121293,
+    3.725091636121293,
+    3.725091636121293,
+    3.725091636121293,
+    3.725091636121293,
+    3.725091636121293
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 35.0,
+    "t": 8.0,
+    "h": 5.0,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "tool_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "tool_loop",
+   "feasible": true,
+   "regret": 4.930684899210185,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    4.930684899210185,
+    4.930684899210185,
+    4.930684899210185,
+    4.930684899210185
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 70.0,
+    "t": 10.0,
+    "h": 5.0,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-030",
+   "agent": "critic_team",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 11,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "critic_team",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 11,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "critic_team",
+   "feasible": true,
+   "regret": 2.878517195176418,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 11,
+   "parse_failures": 0,
+   "by_round": [
+    5.351049575703439,
+    5.351049575703439,
+    2.878517195176418,
+    2.878517195176418,
+    2.878517195176418,
+    2.878517195176418
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 20.0,
+    "t": 8.0,
+    "h": 4.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "critic_team",
+   "feasible": true,
+   "regret": 3.6597800733088968,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 11,
+   "parse_failures": 0,
+   "by_round": [
+    3.6597800733088968,
+    3.6597800733088968,
+    3.6597800733088968,
+    3.6597800733088968,
+    3.6597800733088968,
+    3.6597800733088968
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 35.0,
+    "t": 8.0,
+    "h": 5.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "critic_team",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 11,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "critic_team",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 11,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-030",
+   "agent": "memory_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "memory_loop",
+   "feasible": true,
+   "regret": 6.427686370099534,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    6.427686370099534,
+    6.427686370099534,
+    6.427686370099534,
+    6.427686370099534,
+    6.427686370099534,
+    6.427686370099534
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 50.0,
+    "t": 8.0,
+    "h": 10.0,
+    "tr": 5.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "memory_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "memory_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "memory_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "memory_loop",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 6,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  }
+ ],
+ "playbook_history": [
+  [
+   "Ensure that the width of the bracket is at least 3 times the hole diameter to avoid edge distance issues",
+   "Verify that the tip deflection does not exceed the specified limit to ensure safety and compliance",
+   "Consider increasing the thickness of the ribs (tr) to reduce stress and ensure compliance with stress limits"
+  ],
+  [
+   "Ensure that the width of the bracket is at least 3 times the hole diameter to avoid edge distance issues",
+   "Verify that the tip deflection does not exceed the specified limit to ensure safety and compliance",
+   "Consider increasing the thickness of the ribs (tr) to reduce stress and ensure compliance with stress limits",
+   "Ensure that the total height (t + h) does not exceed the envelope limit of 32 mm",
+   "Optimize the thickness (t) and height (h) to reduce mass while maintaining stress and deflection limits",
+   "Consider using a more rigid material like steel or titanium to improve stress and deflection compliance"
+  ],
+  [
+   "Ensure that the width of the bracket is at least 3 times the hole diameter to avoid edge distance issues",
+   "Verify that the tip deflection does not exceed the specified limit to ensure safety and compliance",
+   "Optimize dimensions to fit within the envelope constraints (total height and width limits) to reduce material usage and weight",
+   "Choose materials with appropriate strength-to-weight ratios to minimize mass while ensuring safety factors and stress limits are met",
+   "Optimize the thickness (t) and height (h) to reduce mass while maintaining stress and deflection limits",
+   "Consider using a more rigid material like steel or titanium to improve stress and deflection compliance",
+   "Consider alternative designs or materials if the current design cannot meet all requirements, such as using a different material or modifying dimensions to fit within the given constraints"
+  ]
+ ],
+ "usage": {
+  "calls": 162,
+  "cached": 6,
+  "tokens": 123238,
+  "minutes": 9.16705761750539
+ },
+ "playbook": [
+  "Ensure that the width of the bracket is at least 3 times the hole diameter to avoid edge distance issues",
+  "Verify that the tip deflection does not exceed the specified limit to ensure safety and compliance",
+  "Optimize dimensions to fit within the envelope constraints (total height and width limits) to reduce material usage and weight",
+  "Choose materials with appropriate strength-to-weight ratios to minimize mass while ensuring safety factors and stress limits are met",
+  "Optimize the thickness (t) and height (h) to reduce mass while maintaining stress and deflection limits",
+  "Consider using a more rigid material like steel or titanium to improve stress and deflection compliance",
+  "Consider alternative designs or materials if the current design cannot meet all requirements, such as using a different material or modifying dimensions to fit within the given constraints"
+ ]
+}

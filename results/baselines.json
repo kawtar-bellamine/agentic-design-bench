@@ -1,0 +1,1946 @@
+{
+ "rows": [
+  {
+   "task_id": "T7-030",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.0734404700190083,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    2.0734404700190083
+   ],
+   "best_design": {
+    "material": "titanium_ti6al4v",
+    "b": 21.5,
+    "t": 3.5,
+    "h": 36.0,
+    "tr": 5.5
+   },
+   "material": "titanium_ti6al4v"
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 3.3097704651635182,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    3.3097704651635182,
+    3.3097704651635182,
+    3.3097704651635182,
+    3.3097704651635182,
+    3.3097704651635182,
+    3.3097704651635182
+   ],
+   "best_design": {
+    "material": "titanium_ti6al4v",
+    "b": 55.5,
+    "t": 5.0,
+    "h": 26.5,
+    "tr": 5.0
+   },
+   "material": "titanium_ti6al4v"
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.7889682894149173,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.7889682894149173,
+    1.7889682894149173,
+    1.7889682894149173,
+    1.7889682894149173,
+    1.7889682894149173,
+    1.7889682894149173
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 31.5,
+    "t": 2.0,
+    "h": 16.0,
+    "tr": 2.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.196101299566811,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    3.5324891702765746,
+    2.515328223925358,
+    2.196101299566811,
+    2.196101299566811,
+    2.196101299566811,
+    2.196101299566811
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 35.5,
+    "t": 4.0,
+    "h": 15.5,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 4.343373493975903,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    4.343373493975903,
+    4.343373493975903,
+    4.343373493975903,
+    4.343373493975903,
+    4.343373493975903
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 30.0,
+    "t": 4.0,
+    "h": 18.5,
+    "tr": 3.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.7306377460803961,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    1.7306377460803961,
+    1.7306377460803961,
+    1.7306377460803961,
+    1.7306377460803961
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 70.5,
+    "t": 2.5,
+    "h": 16.5,
+    "tr": 4.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-050",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-052",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 13.383155397390272,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    13.383155397390272,
+    13.383155397390272,
+    13.383155397390272,
+    13.383155397390272,
+    13.383155397390272,
+    13.383155397390272
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 48.5,
+    "t": 7.5,
+    "h": 0.0,
+    "tr": 0.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-054",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.372052094332981,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    2.372052094332981,
+    2.372052094332981,
+    2.372052094332981
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 54.5,
+    "t": 6.5,
+    "h": 18.5,
+    "tr": 4.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-062",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.2857673037669328,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    1.2857673037669328,
+    1.2857673037669328
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 16.5,
+    "t": 4.5,
+    "h": 15.5,
+    "tr": 2.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-063",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.7839592839592842,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.048789048789049,
+    2.048789048789049,
+    1.7839592839592842,
+    1.7839592839592842,
+    1.7839592839592842,
+    1.7839592839592842
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 28.0,
+    "t": 4.5,
+    "h": 27.5,
+    "tr": 7.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-064",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 7.313562523611636,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    7.313562523611636,
+    7.313562523611636,
+    7.313562523611636,
+    7.313562523611636,
+    7.313562523611636
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 49.5,
+    "t": 4.5,
+    "h": 13.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-066",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-068",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.7354720968206705,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    1.7354720968206705,
+    1.7354720968206705,
+    1.7354720968206705
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 34.0,
+    "t": 3.5,
+    "h": 26.0,
+    "tr": 3.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-069",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.3973559962228514,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    6.134655335221907,
+    6.134655335221907,
+    2.3973559962228514,
+    2.3973559962228514,
+    2.3973559962228514,
+    2.3973559962228514
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 43.5,
+    "t": 2.5,
+    "h": 13.5,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-070",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 8.91137912952281,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    8.91137912952281,
+    8.91137912952281,
+    8.91137912952281,
+    8.91137912952281,
+    8.91137912952281
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 35.5,
+    "t": 5.5,
+    "h": 10.0,
+    "tr": 2.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-072",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-073",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-077",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-080",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 3.7169344870210135,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    3.7169344870210135,
+    3.7169344870210135,
+    3.7169344870210135
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 16.5,
+    "t": 5.0,
+    "h": 28.0,
+    "tr": 4.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-030",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 3.8292725073440472,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    3.8292725073440472,
+    3.8292725073440472,
+    3.8292725073440472
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 26.0,
+    "t": 2.5,
+    "h": 36.5,
+    "tr": 6.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.7331397945511386,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    2.745645377400625,
+    2.745645377400625,
+    2.7331397945511386
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 22.0,
+    "t": 6.5,
+    "h": 8.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.8610463178940353,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    2.59296901032989,
+    2.59296901032989,
+    1.9625124958347218,
+    1.9625124958347218,
+    1.8610463178940353
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 34.5,
+    "t": 3.5,
+    "h": 13.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.572958500669344,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    1.572958500669344
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 18.5,
+    "t": 6.0,
+    "h": 21.0,
+    "tr": 4.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-050",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.6073687264287786,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.6073687264287786,
+    2.6073687264287786,
+    2.6073687264287786,
+    2.6073687264287786,
+    2.6073687264287786,
+    2.6073687264287786
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 39.5,
+    "t": 6.5,
+    "h": 18.0,
+    "tr": 3.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-052",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 10.40332147093713,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    10.708185053380783,
+    10.708185053380783,
+    10.708185053380783,
+    10.708185053380783,
+    10.40332147093713,
+    10.40332147093713
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 36.5,
+    "t": 7.5,
+    "h": 5.0,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-054",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-062",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 3.0662460567823344,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    3.0662460567823344,
+    3.0662460567823344,
+    3.0662460567823344,
+    3.0662460567823344,
+    3.0662460567823344
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 57.0,
+    "t": 4.0,
+    "h": 12.5,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-063",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.414882414882415,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    1.414882414882415,
+    1.414882414882415,
+    1.414882414882415
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 29.0,
+    "t": 3.0,
+    "h": 33.0,
+    "tr": 5.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-064",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-066",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.7241134751773048,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    1.7241134751773048,
+    1.7241134751773048,
+    1.7241134751773048,
+    1.7241134751773048,
+    1.7241134751773048
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 41.5,
+    "t": 2.0,
+    "h": 12.5,
+    "tr": 2.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-068",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.2061281337047354,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.2061281337047354,
+    2.2061281337047354,
+    2.2061281337047354,
+    2.2061281337047354,
+    2.2061281337047354,
+    2.2061281337047354
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 22.5,
+    "t": 7.0,
+    "h": 27.5,
+    "tr": 4.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-069",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 5.27780925401322,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    5.27780925401322,
+    5.27780925401322,
+    5.27780925401322,
+    5.27780925401322
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 34.0,
+    "t": 4.0,
+    "h": 29.5,
+    "tr": 5.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-070",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 4.149973780807551,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    4.149973780807551,
+    4.149973780807551,
+    4.149973780807551,
+    4.149973780807551,
+    4.149973780807551,
+    4.149973780807551
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 29.5,
+    "t": 7.5,
+    "h": 22.0,
+    "tr": 3.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-072",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.8473426309837917,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    1.8473426309837917,
+    1.8473426309837917,
+    1.8473426309837917
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 27.5,
+    "t": 6.5,
+    "h": 13.0,
+    "tr": 4.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-073",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-077",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 3.201020862594635,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    3.201020862594635,
+    3.201020862594635,
+    3.201020862594635,
+    3.201020862594635,
+    3.201020862594635
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 62.5,
+    "t": 5.0,
+    "h": 33.0,
+    "tr": 5.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-080",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.1665636588380717,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.004635352286774,
+    2.004635352286774,
+    2.004635352286774,
+    2.004635352286774,
+    2.004635352286774,
+    1.1665636588380717
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 25.5,
+    "t": 2.5,
+    "h": 25.0,
+    "tr": 4.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-030",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.8551926732331088,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    2.0832901330568516,
+    1.8551926732331088,
+    1.8551926732331088,
+    1.8551926732331088,
+    1.8551926732331088
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 28.5,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 9.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.9162096282754417,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    2.9162096282754417,
+    2.9162096282754417,
+    2.9162096282754417
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 44.0,
+    "t": 3.0,
+    "h": 18.0,
+    "tr": 4.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 4.0786065207682,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    4.0786065207682
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 30.5,
+    "t": 6.5,
+    "h": 12.5,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.309063645451516,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.408363878707098,
+    2.408363878707098,
+    2.3120626457847386,
+    2.3120626457847386,
+    2.3120626457847386,
+    2.309063645451516
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 30.0,
+    "t": 3.5,
+    "h": 19.0,
+    "tr": 4.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.306057563587684,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.8231258366800536,
+    1.6927710843373494,
+    1.6927710843373494,
+    1.6927710843373494,
+    1.6927710843373494,
+    1.306057563587684
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 20.5,
+    "t": 2.5,
+    "h": 27.5,
+    "tr": 4.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-050",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 1.939425587467363,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    1.939425587467363,
+    1.939425587467363
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 29.0,
+    "t": 4.5,
+    "h": 19.5,
+    "tr": 5.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-052",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 6.581850533807829,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    9.07829181494662,
+    6.581850533807829,
+    6.581850533807829,
+    6.581850533807829,
+    6.581850533807829
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 30.5,
+    "t": 8.0,
+    "h": 30.5,
+    "tr": 9.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-054",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-062",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.77602523659306,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    2.77602523659306,
+    2.77602523659306,
+    2.77602523659306,
+    2.77602523659306
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 62.0,
+    "t": 3.0,
+    "h": 13.5,
+    "tr": 4.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-063",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.7979992979992985,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.7979992979992985,
+    2.7979992979992985,
+    2.7979992979992985,
+    2.7979992979992985,
+    2.7979992979992985,
+    2.7979992979992985
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 36.5,
+    "t": 7.0,
+    "h": 30.5,
+    "tr": 8.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-064",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-066",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 4.146099290780142,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    4.146099290780142,
+    4.146099290780142,
+    4.146099290780142,
+    4.146099290780142
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 57.0,
+    "t": 4.5,
+    "h": 9.0,
+    "tr": 2.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-068",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.9659494765152243,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    3.2254346364422246,
+    3.2254346364422246,
+    3.2254346364422246,
+    2.9659494765152243,
+    2.9659494765152243,
+    2.9659494765152243
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 35.5,
+    "t": 6.5,
+    "h": 28.5,
+    "tr": 4.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-069",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.8830972615675163,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    3.447025495750708,
+    3.447025495750708,
+    3.447025495750708,
+    3.447025495750708,
+    3.447025495750708,
+    2.8830972615675163
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 46.5,
+    "t": 3.0,
+    "h": 9.5,
+    "tr": 2.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-070",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 8.968536969061352,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    8.968536969061352,
+    8.968536969061352,
+    8.968536969061352,
+    8.968536969061352,
+    8.968536969061352
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 28.0,
+    "t": 7.5,
+    "h": 6.5,
+    "tr": 2.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-072",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 2.1274029400678476,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.1274029400678476,
+    2.1274029400678476,
+    2.1274029400678476,
+    2.1274029400678476,
+    2.1274029400678476,
+    2.1274029400678476
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 29.0,
+    "t": 8.0,
+    "h": 12.0,
+    "tr": 3.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-073",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-077",
+   "agent": "random_search",
+   "feasible": true,
+   "regret": 3.3642218492000953,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    3.3642218492000953,
+    3.3642218492000953,
+    3.3642218492000953
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 33.5,
+    "t": 4.0,
+    "h": 35.0,
+    "tr": 10.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-080",
+   "agent": "random_search",
+   "feasible": false,
+   "regret": NaN,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "best_design": null,
+   "material": null
+  },
+  {
+   "task_id": "T7-030",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.8411957836530155,
+   "success": false,
+   "verifier_calls": 5,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    2.046483497494384,
+    1.8411957836530155,
+    1.8411957836530155
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 27.0,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 9.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-031",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.211659557180581,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.211659557180581,
+    1.211659557180581
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 48.0,
+    "t": 2.0,
+    "h": 30.0,
+    "tr": 5.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-035",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.9115676641357746,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.9115676641357746,
+    1.9115676641357746
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 28.0,
+    "t": 2.0,
+    "h": 18.0,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-039",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.5754748417194269,
+   "success": false,
+   "verifier_calls": 3,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.0463178940353215,
+    1.5754748417194269,
+    1.5754748417194269
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 27.0,
+    "t": 2.0,
+    "h": 23.0,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-045",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.5896921017402945,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.5896921017402945,
+    1.5896921017402945
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 23.0,
+    "t": 2.0,
+    "h": 30.0,
+    "tr": 5.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-049",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.0,
+   "success": true,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.3262407167275727,
+    1.0277614051632677,
+    1.0069550866438761,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 38.0,
+    "t": 2.0,
+    "h": 23.0,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-050",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.0491441833478388,
+   "success": true,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.2090513489991297,
+    1.0573832317957645,
+    1.0491441833478388,
+    1.0491441833478388,
+    1.0491441833478388,
+    1.0491441833478388
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 24.0,
+    "t": 2.0,
+    "h": 23.0,
+    "tr": 3.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-052",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 3.9946619217081847,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    3.9946619217081847,
+    3.9946619217081847
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 33.0,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 6.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-054",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.08567405843013,
+   "success": true,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.08567405843013,
+    1.08567405843013
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 53.5,
+    "t": 2.0,
+    "h": 23.0,
+    "tr": 4.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-062",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.7340879569493413,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.7340879569493413,
+    1.7340879569493413
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 48.0,
+    "t": 2.0,
+    "h": 18.0,
+    "tr": 3.0
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-063",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.7734292734292734,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.7734292734292734,
+    1.7734292734292734
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 33.5,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 6.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-064",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 0.9795995466565924,
+   "success": true,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.2142047601057802,
+    1.0102002266717038,
+    0.9897997733282962,
+    0.9795995466565924,
+    0.9795995466565924,
+    0.9795995466565924
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 26.0,
+    "t": 2.0,
+    "h": 18.0,
+    "tr": 2.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-066",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.0156028368794328,
+   "success": true,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.7354609929078013,
+    1.2453900709219858,
+    1.1070921985815603,
+    1.0156028368794328,
+    1.0156028368794328,
+    1.0156028368794328
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 20.0,
+    "t": 2.0,
+    "h": 14.0,
+    "tr": 2.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-068",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 2.5095091729901067,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    2.5095091729901067,
+    2.5095091729901067
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 28.0,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 6.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-069",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 5.554296506137866,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    5.554296506137866,
+    5.554296506137866
+   ],
+   "best_design": {
+    "material": "steel_s355",
+    "b": 33.0,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 6.5
+   },
+   "material": "steel_s355"
+  },
+  {
+   "task_id": "T7-070",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 3.095437860513896,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    3.095437860513896,
+    3.095437860513896
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 35.0,
+    "t": 2.0,
+    "h": 30.0,
+    "tr": 5.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-072",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.2849604221635884,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    1.2849604221635884,
+    1.2849604221635884
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 40.0,
+    "t": 2.0,
+    "h": 18.0,
+    "tr": 4.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-073",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.1508960573476703,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    1.1625448028673837,
+    1.15663082437276,
+    1.1508960573476703
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 59.0,
+    "t": 2.0,
+    "h": 18.0,
+    "tr": 4.5
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-077",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.2474050220958512,
+   "success": false,
+   "verifier_calls": 6,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    1.2474050220958512
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 80.0,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 10.0
+   },
+   "material": "aluminium_6061"
+  },
+  {
+   "task_id": "T7-080",
+   "agent": "rule_of_thumb",
+   "feasible": true,
+   "regret": 1.9477750309023487,
+   "success": false,
+   "verifier_calls": 2,
+   "llm_calls": 0,
+   "parse_failures": 0,
+   "by_round": [
+    1.9477750309023487,
+    1.9477750309023487
+   ],
+   "best_design": {
+    "material": "aluminium_6061",
+    "b": 23.0,
+    "t": 2.0,
+    "h": 38.0,
+    "tr": 6.5
+   },
+   "material": "aluminium_6061"
+  }
+ ]
+}
